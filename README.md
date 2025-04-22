@@ -1,6 +1,6 @@
 # 🩻 DicoVision: DICOM Explorer
 
-![Project Logo](assets/logo.png)
+![Project Logo]([assets/logo.png](https://github.com/Kareem-Taha-05/DicoVision/blob/main/Logo%20and%20Illustrative%20visuals/Logo/DicoVision%20Logo.jpeg))
 
 **DicoVision** is an intuitive and interactive application for loading, visualizing, and exploring DICOM medical images. Built with **PyQt5**, **pydicom**, and **NumPy**, the viewer supports rich metadata interaction, anonymization, and 3D tiled visualization of DICOM slices.
 
