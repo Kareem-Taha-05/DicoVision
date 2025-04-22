@@ -76,9 +76,9 @@ Make sure you have Python 3.8 or above installed. Then run:
     pip install -r requirements.txt
     ```
 ### 2. 🏁 Launch the Application
-    ``` 
+     
     python Task4.py 
-    ```
+    
 
 ---
 
