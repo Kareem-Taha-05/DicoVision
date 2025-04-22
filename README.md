@@ -1,5 +1,7 @@
 # 🩻 DicoVision: DICOM Explorer
 
+![Project Logo](assets/logo.png)
+
 **DicoVision** is an intuitive and interactive application for loading, visualizing, and exploring DICOM medical images. Built with **PyQt5**, **pydicom**, and **NumPy**, the viewer supports rich metadata interaction, anonymization, and 3D tiled visualization of DICOM slices.
 
 ---
@@ -120,6 +122,14 @@ Make sure you have Python 3.8 or above installed. Then run:
 ## 📄 License
 
 This project is licensed under the **[MIT License](../LICENSE.txt)**.
+
+---
+
+# Contributors
+1. [Kareem Taha](https://github.com/Kareem-Taha-05)
+2. [Omar Gamal](https://github.com/OmarGamalH)
+3. [Kareem Hassan](https://github.com/karimhassan-808)
+4. [Omar Amein](https://github.com/OmarAmein)
 
 ---
 
