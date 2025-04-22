@@ -66,3 +66,65 @@
 ---
 
 ## 🚀 Getting Started
+
+### 1. 📥 Install Dependencies
+
+Make sure you have Python 3.8 or above installed. Then run:
+    ``` 
+    pip install -r requirements.txt
+    ```
+### 2. 🏁 Launch the Application
+    ``` 
+    python Task4.py 
+    ```
+
+---
+
+## 🧭 How to Use
+
+### 🖼️ Image Viewer Tab
+- Load DICOM images from your system.
+- Supports both static and animated DICOM formats (multi-frame).
+
+### 🧬 Metadata Viewer Tab
+- Explore full DICOM metadata.
+- Search and anonymize fields with one click.
+
+### 🧱 3D Viewer Tab
+- Visualize stacks of DICOM slices in a tile grid.
+- Zoom in/out to focus on specific areas.
+
+### ⚠️ Error Handling
+- Selecting invalid files/folders prompts a clean error message.
+- No crashes—just smooth user experience.
+
+---
+
+## 📸 Screenshots
+
+![Image](https://github.com/user-attachments/assets/ad3e585e-7e48-4332-bc1d-c18c357c0e79)  
+![Image](https://github.com/user-attachments/assets/a1686fa3-6620-4132-b182-fb643e130fc3)  
+![Image](https://github.com/user-attachments/assets/64925f23-379e-40f4-af7c-1613fd3b7dfd)  
+![Image](https://github.com/user-attachments/assets/9cf5170a-fb1d-458b-a091-30d758540de2)  
+![Image](https://github.com/user-attachments/assets/073f8bb3-c159-4a62-8735-571cfd487a72)  
+![Image](https://github.com/user-attachments/assets/eb18211b-25c8-460b-a352-6b9423ea1279)
+
+---
+
+## 🎥 Demo Video
+
+👉 [Watch Demo Video](https://github.com/user-attachments/assets/93210dcb-44cd-4bd6-a2e9-d3d591be0d9d)
+
+---
+
+## 📄 License
+
+This project is licensed under the **[MIT License](../LICENSE.txt)**.
+
+---
+
+## 💬 Feedback & Contributions
+
+Contributions, issues, and feature requests are welcome! Feel free to open an issue or pull request on GitHub.
+
+---
